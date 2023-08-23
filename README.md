@@ -2,9 +2,9 @@
 
 Code to reproduce figures in Savidge et al., XXXX.
 
-Notebooks 'visible_effectivepixel_area' and 'thermal_effectivepixel_area' produce the data files (thermal_area_effectivepixel.pkl and visible_area_effectivepixel.pkl) that are  used in all the figure notebooks. These notebooks are quite large and take some time to run as they go through a total of 340 MODIS scenes.
+Notebooks 'visible_effectivepixel_area' and 'thermal_effectivepixel_area' produce the output files (thermal_area_effectivepixel.pkl and visible_area_effectivepixel.pkl) that are  used in all the figure notebooks. These notebooks ('visible_effectivepixel_area','thermal_effectivepixel_area') are quite large and take some time to run as they go through a total of 340 MODIS scenes.
 
-Therefore, I include those output pickle files as well so that the 'visible_effectivepixel_area' and 'thermal_effectivepixel_area' notebooks do not need to be run to reproduce the figures.
+We include the output pickle files (thermal_area_effectivepixel.pkl, visible_area_effectivepixel.pkl) which are the polynya area time series, one from thermal and one from visible data, but otherwise formatted exactly the same in pandas dataframes so they can easily be concatenated if needed. Therefore, the 'visible_effectivepixel_area' and 'thermal_effectivepixel_area' notebooks do not need to be run to reproduce the figures.
 
 Figures SX are supplemental figures.
 
