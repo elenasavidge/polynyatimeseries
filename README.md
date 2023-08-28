@@ -10,4 +10,4 @@ Figures SX are supplemental figures.
 
 The timeseries_scenes.xlsx file contains the dates, file names, and links to all scenes used.
 
-All MODIS imagery can be visualized in [NASA Worldview](https://worldview.earthdata.nasa.gov/) and downloaded from NASA Earthdata. 
+All MODIS imagery can be visualized in [NASA Worldview](https://worldview.earthdata.nasa.gov/) and downloaded from [NASA Earthdata](https://search.earthdata.nasa.gov/). 
