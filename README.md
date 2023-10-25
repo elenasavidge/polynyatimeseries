@@ -12,4 +12,4 @@ The timeseries_scenes.xlsx file contains the dates, file names, and links to all
 
 All MODIS imagery can be visualized in [NASA Worldview](https://worldview.earthdata.nasa.gov/) and downloaded from [NASA Earthdata](https://search.earthdata.nasa.gov/). 
 
-Full manuscript and code citations will be added upon acceptance.
+[![DOI](https://zenodo.org/badge/674354609.svg)](https://zenodo.org/doi/10.5281/zenodo.10042119)
