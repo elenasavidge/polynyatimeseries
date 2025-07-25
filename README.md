@@ -1,6 +1,6 @@
 # polynyatimeseries
 
-Python notebooks and data to reproduce figures in Savidge et al. (submitted).
+Python notebooks and data to reproduce figures in Savidge et al. 2023 "Multi‐Decadal Record of Sensible‐Heat Polynya Variability From Satellite Optical and Thermal Imagery at Pine Island Glacier, West Antarctica".
 
 Notebooks 'visible_effectivepixel_area' and 'thermal_effectivepixel_area' produce the output files (thermal_area_effectivepixel_fixed and visible_area_effectivepixel_fixed) that are used in all the figure notebooks. These notebooks ('visible_effectivepixel_area', 'thermal_effectivepixel_area') are quite large and take some time to run as they go through a total of 342 MODIS scenes.
 
